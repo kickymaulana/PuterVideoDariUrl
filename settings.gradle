@@ -1,0 +1,2 @@
+rootProject.name = "Puter Video Dari Url"
+include ':app'
